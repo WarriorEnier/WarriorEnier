@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, Soy Enier A. Guerrero V, pero me podes llamar Tony</h1>
-<h3 align="center">Desarrollador full stack</h3>
+<h2 align="center">Desarrollador full stack</h2>
+<h3>Desde joven me llamó mucho la atención la tecnología, en especial los videojuegos🕹, termine estudiando una tecnología en sistemas, pero por cosas de la vida
+nunca ejercí lo aprendido 😟, me dedique al negocio de la familia hasta que la nación del 🔥 atacó(pandemia) y tuve que volver a donde algun dia fui feliz...😃. Me ha costado tomar el ritmo pero acá vamos✌
+</h3>
 
 - 🔭 Actualmente estoy trabajando en [OnlyPan](https://onlypan.vercel.app/)
 
